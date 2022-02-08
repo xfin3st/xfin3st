@@ -27,14 +27,14 @@
 <h4 align="center">Sell Sourcecode´s & Private Hacks</h4>
 </p>
 <p align="center">
-    <a href="https://discord.gg/7KDAE3fK">
+    <a href="https://discord.gg/eupCgdH7">
    <img alt="Discord" src="https://img.shields.io/badge/Discord ID-fin3st%230001-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=10&labelColor=000'"></a>
 
 <h4 align="center">For any requests or other</h4>
 </p>
 <p align="center">
-    <a href="https://discord.gg/7KDAE3fK">
-   <img alt="Discord" src="https://img.shields.io/badge/Discord Server-fin3st Army-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=10&labelColor=000'"></a>
+    <a href="https://discord.gg/eupCgdH7">
+   <img alt="Discord" src="https://img.shields.io/badge/Discord Server-AimTyran-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=10&labelColor=000'"></a>
 
 </pre><br>
 
