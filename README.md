@@ -57,9 +57,10 @@
 <p align="center">
     <a href="https://github.com/xfin3st">
         <img title="xfin3st stats" alt="xfin3st streak" src="https://github-readme-streak-stats.herokuapp.com/?user=xfin3st&theme=chartreuse-dark](https://git.io/streak-stats)/>
-    </a>
-</p><br>
-<a href="https://github.com/xfin3st"><img alt="xfin3st's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SarnaxLii&bg_color=0D1117&color=eca15b&line=eca15b&point=FFFFFF&hide_border=true" /></a>
+     </a>
+</p>
+  
+
   
 
 <h2 align="center">Contact me</h2>
