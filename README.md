@@ -33,7 +33,7 @@
 > **Sell Sourcecodes & Private Hacks**
 >
 > 🕹️ **Discord ID:** `fin.3st`  
-> 🛡️ **Discord Server:** [fin3st](https://discord.gg/PcFq9p5P)
+> 🛡️ **Discord Server:** [fin3st Gaming](https://discord.gg/PcFq9p5P)
 
 ---
 
