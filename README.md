@@ -1,6 +1,8 @@
-<h3 align="center">
-  Developer • Gamer • Internet Geek
-</h3>
+<p align="center">
+  <!--<img src="https://raw.githubusercontent.com/xfin3st/xfin3st/refs/heads/main/logo.png" width="600"><br>-->
+  <b style="font-size: 80px;">Developer • Gamer • Internet Geek</b>
+</p>
+
 
 
 ---
