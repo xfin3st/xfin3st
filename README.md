@@ -1,10 +1,11 @@
 <!-- README.md -->
 <!--<h1 align="center">🧠 fin3st</h1>-->
+<h1
 <p align="center">
   <!--<img src="https://raw.githubusercontent.com/xfin3st/xfin3st/main/logo.png" width="150" alt="fin3st logo"><br>-->
   <img src="https://komarev.com/ghpvc/?username=xfin3st&label=Profile+Views&color=00ffff&style=flat-square" alt="Profile Views"/>
 </p>
-
+</h1>
 <h1 align="center" style="color:#00ffff;text-shadow:0 0 5px #00ffff, 0 0 10px #00ffff;">
   👨‍💻 Developer · 🎮 Gamer · 🌐 Internet Geek
 </h1>
