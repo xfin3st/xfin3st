@@ -1,7 +1,9 @@
-<h1 align="center">
+<h1 align="center" style="
+  color: #00ffff;
+  text-shadow: 0 0 3px #00ffff, 0 0 6px #00ffff, 0 0 12px #00ffff;
+  font-family: 'Segoe UI', sans-serif;">
   Developer • Gamer • Internet Geek
 </h1>
-
 
 
 
