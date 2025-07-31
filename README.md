@@ -1,4 +1,3 @@
-<h1 align="center">👨‍💻 fin3st</h1>
 <p align="center">
   <img src="https://raw.githubusercontent.com/xfin3st/xfin3st/refs/heads/main/logo.png" width="600"><br>
   <b>Developer • Gamer • Internet Geek</b>
