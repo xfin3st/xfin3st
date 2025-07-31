@@ -30,7 +30,7 @@
 
 ## 📬 Contact Me
 
-> **Sell Sourcecodes & Private Hacks**
+> <!--**Sell Sourcecodes & Private Hacks**-->
 >
 > 🕹️ **Discord ID:** `fin.3st`  
 > 🛡️ **Discord Server:** [fin3st Gaming](https://discord.gg/PcFq9p5P)
