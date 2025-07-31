@@ -29,8 +29,8 @@ Currently:  Hosting fake GUI projects with cool designs 😎
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xfin3st&theme=radical&show_icons=true" width="420"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xfin3st&theme=radical" width="390"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=xfin3st&theme=chartreuse-dark&show_icons=true" width="420"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xfin3st&theme=chartreuse-dark" width="390"/>
 </p>
 
 ## 🔗 Connect with me
