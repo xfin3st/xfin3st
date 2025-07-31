@@ -32,8 +32,8 @@
 
 > **Sell Sourcecodes & Private Hacks**
 >
-> 🕹️ **Discord ID:** `FIN3ST#0001`  
-> 🛡️ **Discord Server:** [AIMTYRAN](https://discord.gg/deinserverlink)
+> 🕹️ **Discord ID:** `fin.3st`  
+> 🛡️ **Discord Server:** [fin3st](https://discord.gg/PcFq9p5P)
 
 ---
 
