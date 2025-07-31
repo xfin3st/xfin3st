@@ -1,5 +1,5 @@
 <!-- README.md -->
-<h1 align="center">🧠 fin3st</h1>
+<h3 align="center">🧠 fin3st</h3>
 <p align="center">
   <!--<img src="https://raw.githubusercontent.com/xfin3st/xfin3st/main/logo.png" width="150" alt="fin3st logo"><br>-->
   <img src="https://komarev.com/ghpvc/?username=xfin3st&label=Profile+Views&color=00ffff&style=flat-square" alt="Profile Views"/>
@@ -15,7 +15,7 @@
 ```yaml
 Name:       fin3st
 Focus:      GUI-Tools, HTML Projects, Gameing
-Languages:  C++, C#, HTML, CSS, JavaScript
+Languages:  C++, C#, HTML, CSS
 Currently:  Hosting fake GUI projects with cool designs 😎
 ``` 
 
