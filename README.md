@@ -42,4 +42,6 @@ Currently:  Hosting fake GUI projects with cool designs 😎
 
 ---
 
-<h1 ✨ "Stay creative. Stay curious. Stay fin3st." </h1>
+<h1 
+  >✨ "Stay creative. Stay curious. Stay fin3st." 
+</h1>
