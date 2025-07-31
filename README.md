@@ -1,6 +1,6 @@
-<h2 align="center">
+<h3 align="center">
   Developer • Gamer • Internet Geek
-</h2>
+</h3>
 
 
 ---
