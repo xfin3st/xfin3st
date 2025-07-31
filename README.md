@@ -1,6 +1,6 @@
 <h1 align="center">👨‍💻 fin3st</h1>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/xfin3st/fin3st/main/logo.png" width="120"><br>
+  <img src="[https://raw.githubusercontent.com/xfin3st/fin3st/main/logo.png](https://raw.githubusercontent.com/xfin3st/xfin3st/refs/heads/main/logo.png)" width="120"><br>
   <b>Developer • Gamer • Internet Tüftler</b>
 </p>
 
