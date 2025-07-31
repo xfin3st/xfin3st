@@ -37,7 +37,7 @@
 
 ---
 
-## 🧪 Projects
+<!-- ## 🧪 Projects
 
 ### 🔧 fin3st-optimizer (Fake GUI)
 
@@ -50,4 +50,4 @@
 ---
 
 > _"Access granted."_  
-> — `fin3st`
+> — `fin3st` -->
