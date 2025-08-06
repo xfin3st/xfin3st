@@ -14,9 +14,9 @@
 ## 🚀 About Me
 ```yaml
 Name:       fin3st
-Focus:      GUI-Tools, HTML Projects, Gameing
-Languages:  C++, C#, HTML, CSS
-Currently:  Hosting fake GUI projects with cool designs 😎
+Focus:      GUI-Tools, HTML & PHP Projects, Gameing
+Languages:  C++, C#, HTML, CSS, PHP
+Currently:  Hosting Fake GUI Projects with cool Designs 😎
 ``` 
 
 ## 💻 Tech Stack
@@ -36,7 +36,7 @@ Currently:  Hosting fake GUI projects with cool designs 😎
 ## 🔗 Connect with me
 <p align="center">
   <a href="https://fin3st.de" target="_blank"><img src="https://img.shields.io/badge/Website-fin3st.de-00ffff?style=for-the-badge&logo=internet-explorer&logoColor=black"></a>
-  <a href="https://discord.gg/aimtyran" target="_blank"><img src="https://img.shields.io/badge/Discord-Join%20Me-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://discord.gg/bSU8PM6xZF" target="_blank"><img src="https://img.shields.io/badge/Discord-Join%20Me-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://github.com/xfin3st" target="_blank"><img src="https://img.shields.io/badge/GitHub-xfin3st-24292e?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
