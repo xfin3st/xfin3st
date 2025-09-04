@@ -14,9 +14,10 @@
 ## 🚀 About Me
 ```yaml
 Name:       fin3st
-Focus:      GUI-Tools, HTML & PHP Projects, Gameing
-Languages:  C++, C#, HTML, CSS, PHP
-Currently:  Hosting Fake GUI Projects with cool Designs 😎
+Focus:      GUI Tools • Discord Bots • Web Projects
+Languages:  C++, C#, JavaScript, PHP, HTML/CSS
+Currently:  Building modern tools with cool designs ⚡
+Website:    https://fin3st.de
 ``` 
 
 ## 💻 Tech Stack
