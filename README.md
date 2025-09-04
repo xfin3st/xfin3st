@@ -15,7 +15,7 @@
 ```yaml
 Name:       fin3st
 Focus:      GUI Tools • Discord Bots • Web Projects
-Languages:  C++, C#, JavaScript, PHP, HTML/CSS
+Languages:  C++, C#, JavaScript, PHP, HTML/CSS, Linux, Docker
 Currently:  Building modern tools with cool designs ⚡
 Website:    https://fin3st.de
 ``` 
@@ -28,6 +28,8 @@ Website:    https://fin3st.de
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
 ## 📊 GitHub Stats
