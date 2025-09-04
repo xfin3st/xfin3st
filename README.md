@@ -42,7 +42,7 @@ Website:    https://fin3st.de
 <p align="center">
   <a href="https://fin3st.de" target="_blank"><img src="https://img.shields.io/badge/Website-fin3st.de-00ffff?style=for-the-badge&logo=internet-explorer&logoColor=black"></a>
   <a href="https://discord.gg/bSU8PM6xZF" target="_blank"><img src="https://img.shields.io/badge/Discord-Join%20Me-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://github.com/xfin3st" target="_blank"><img src="https://img.shields.io/badge/GitHub-xfin3st-24292e?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/xfin3st" target="_blank"><img src="https://img.shields.io/badge/GitHub-xfin3st-1ABC9C?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ---
