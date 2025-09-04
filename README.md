@@ -16,7 +16,7 @@
 Name:       fin3st
 Focus:      GUI Tools • Discord Bots • Web Projects
 Languages:  C++, C#, JavaScript, PHP, HTML/CSS, Linux, Docker
-Currently:  Building modern tools with cool designs ⚡
+Currently:  Building modern Websites & Tools with cool designs ⚡
 Website:    https://fin3st.de
 ``` 
 
